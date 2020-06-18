@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > 153be82a4eddddb12ea4c057bd99d6b5024b0fb9
 
 # README
 
@@ -23,4 +28,4 @@ Things you may want to cover:
 
 - Deployment instructions
 
-- # ...
+<<<<<<< HEAD

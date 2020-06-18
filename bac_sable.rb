@@ -11,7 +11,7 @@ class Square < Shapes
   end
 
   def perimeter
-    @side_lengths * 5
+    @side_lengths * 4
   end
 end
 
