@@ -1,7 +1,7 @@
-class Shape
+class Shapes
 end
 
-class Square < Shape
+class Square < Shapes
   def initialize(side_length)
     @side_lengths = side_length
   end
@@ -15,7 +15,7 @@ class Square < Shape
   end
 end
 
-class Triangle < Shape
+class Triangle < Shapes
   def initialize(base_width, height, side1, side2, side3)
     @base_width = base_width
     @height = height
